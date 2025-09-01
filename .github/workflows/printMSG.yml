@@ -1,0 +1,15 @@
+name: Simple work flow
+
+on:
+  push:
+    branches:
+      - main
+
+
+jobs:
+ print-msg:
+   runs-on: ubuntu-latest
+
+   steps:
+     - name: print a welcome msg
+       run: echo "Welcome to my repo "
