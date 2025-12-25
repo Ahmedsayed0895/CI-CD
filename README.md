@@ -1,4 +1,4 @@
-# 🚀 CI/CD Workflows Collection
+#  CI/CD Workflows Collection
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-Automation-orange?style=for-the-badge)
